@@ -1,6 +1,6 @@
-🔹 Hi, I'm Sajid! 👋
-
 ![Profile Banner](https://iili.io/F348aUb.png)
+Sajid Mahmud Sayan
+
 
 🔹 About Me
 - 🌍 Location: Chattogram, Bangladesh
