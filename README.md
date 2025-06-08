@@ -3,7 +3,7 @@
     <img src="image/about.png" alt="mehedihasanhrid1" width="100%">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=4CC61E&width=450&lines=Sajidi+Mahmud+Sayan;Pro+Developer;Trojan+Virus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=4CC61E&width=450&lines=Sajid+Mahmud+Sayan;Pro+Developer;Trojan+Virus)](https://git.io/typing-svg)
 
 # :technologist: About Me
   
