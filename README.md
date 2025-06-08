@@ -1,6 +1,6 @@
 ﻿![](https://komarev.com/ghpvc/?username=sajidsayan&color=brightblue&base=1000&style=flat-square)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=4CC61E&width=450&lines=Sajid+Mahmud+Sayan;Pro+Developer;Trojan+Virus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Robotic&size=30&pause=1000&color=410CB1&width=435&lines=Sajid+Mahmud+Sayan)](https://git.io/typing-svg)
 
 # :technologist: About Me
   
