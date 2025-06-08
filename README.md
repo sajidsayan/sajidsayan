@@ -1,7 +1,4 @@
-﻿![](https://komarev.com/ghpvc/?username=sajidsayan&color=brightgreen&base=1000&style=flat-square)
-<div align="center">
-    <img src="image/about.png" alt="mehedihasanhrid1" width="100%">
-</div>
+﻿![](https://komarev.com/ghpvc/?username=sajidsayan&color=brightblue&base=1000&style=flat-square)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=4CC61E&width=450&lines=Sajid+Mahmud+Sayan;Pro+Developer;Trojan+Virus)](https://git.io/typing-svg)
 
@@ -11,7 +8,7 @@
  
 # :eyes: Current Overview
  
-### 🥅 Goals of 2024 - GraphQL, MySQL, Prisma, Docker, React-Native, AWS <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
+### 🥅 Goals of 2025 - Python, C++, Hacking.
 
 ### 🌱 I’m exploring - Advance motion graphics for web. 
 
